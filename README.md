@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Caetano</h1>
 <h3 align="center">Majoring in Computer Science. 22 years old, carioca with pride. Lover of art and nature.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatancaetano&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatancaetano" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhonatancaetano" alt="jhonatancaetano" /></a> </p>
 
 - 🌱 I’m currently learning **to synchronize front and backend**
