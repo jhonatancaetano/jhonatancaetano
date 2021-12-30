@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to synchronize front and backend**
 
-- 💬 Ask me about **frontend, react, banco de dados, java**
+- 💬 Ask me about **frontend, react, database, java**
 
 - 📫 How to reach me **jhonatan99ca@hotmail.com**
 
