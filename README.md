@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Caetano</h1>
-<h3 align="center">Majoring in Computer Science. 22 years old, carioca with pride. Lover of art and nature.</h3>
+<h3 align="center">Majoring in Computer Science. 23 years old, carioca with pride. Lover of art and nature.</h3>
 
 - 🌱 I’m currently learning **to synchronize front and backend**
 
