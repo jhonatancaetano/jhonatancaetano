@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jhonatan99ca@hotmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1K7m_R3WPqbO9E2-FufJPJwu3MNbEzAHrinQcv5DxIMs/edit?usp=sharing](https://docs.google.com/document/d/1K7m_R3WPqbO9E2-FufJPJwu3MNbEzAHrinQcv5DxIMs/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mvrxJIQVNf455Cn7v6Zt1Af6DhCX_ya5/view?usp=sharing](https://drive.google.com/file/d/1mvrxJIQVNf455Cn7v6Zt1Af6DhCX_ya5/view?usp=sharing)
 
 - ⚡ Fun fact **I love working in groups, meeting new people and exchanging an idea. I am passionate about transforming and creating new things.**
 
