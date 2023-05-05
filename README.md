@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **to synchronize front and backend**
 
-- 💬 Ask me about **frontend, react, database, java**
+- 💬 Ask me about **frontend, react, database, java and django**
 
 - 📫 How to reach me **jhonatan99ca@hotmail.com**
 
